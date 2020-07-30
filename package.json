@@ -1,0 +1,19 @@
+{
+  "name": "trade-demo",
+  "version": "1.0.0",
+  "description": "Trading Demo with will base on wroker thread module and socket programing project, where 3 wroker will operate at a same time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayurtakawale88/trade-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayurtakawale88/trade-demo/issues"
+  },
+  "homepage": "https://github.com/mayurtakawale88/trade-demo#readme"
+}
